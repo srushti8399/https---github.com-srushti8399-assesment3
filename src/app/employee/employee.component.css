@@ -1,0 +1,12 @@
+table {
+	width: 80%;
+  }
+  
+  mat-header-cell, mat-cell {
+	justify-content: center;
+  }
+  .space {
+	width: 8px;
+	height: auto;
+	display: inline-block;
+  }
